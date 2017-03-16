@@ -12,6 +12,10 @@
 //
 //= require jquery
 //= require bootstrap-sprockets
+//= require js/jquery.easing.min
+//= require vendor/scrollreveal/scrollreveal
+//= require vendor/magnific-popup/jquery.magnific-popup
+//= require js/creative
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
